@@ -1,0 +1,61 @@
+/* abt.css */
+
+body {
+    background: linear-gradient(180deg, #d502ff, #3200bb); /* Yellow-Green Gradient Background */
+    color: #000; /* Text color */
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    background: #fff;
+    padding: 10px 0;
+}
+
+.logo {
+    width: 120px;
+    height: auto;
+}
+
+.birthday-wishes {
+    padding: 20px;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.birthday-photos {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.birthday-photo {
+    flex: 0 0 48%;
+    margin-bottom: 20px;
+}
+
+.birthday-photo img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.footer {
+    background: #fff;
+    padding: 10px 0;
+}
