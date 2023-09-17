@@ -1,1 +1,1 @@
-window.alert("Hello ! Princess This is a suprose gift for you")
+window.alert("Hello ! Princess This is a suprise gift for you")
